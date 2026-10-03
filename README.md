@@ -25,5 +25,6 @@ Suggestions, bug reports, and improvements are always welcome. If you try one of
 ## 👤 Author
 
 **SM Fahad** – [@SMFAHAD1](https://github.com/SMFAHAD1)
+Email: smfahadfahad874@gmail.com
 
 ⭐ If you find this repository useful, please consider giving it a star!
