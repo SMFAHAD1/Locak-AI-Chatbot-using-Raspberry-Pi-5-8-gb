@@ -1,3 +1,29 @@
+## 🚀 Getting Started: Recommended Workflow
+
+If this is your first time here, follow the steps below in order.
+
+### Step 1: Complete the Memory Configuration Process
+Start by setting up memory on your Raspberry Pi 5 (8 GB) so the AI models run smoothly.
+📁 See [`Memory-Configuration-Process`](./Memory-Configuration-Process) (includes a video guide).
+
+### Step 2: Share the Pi Using Command Prompt
+Next, set up screen sharing from the command line.
+📁 See [`Raspberry-Pi-Screen-Sharing-using-Command-Prompt`](./Raspberry-Pi-Screen-Sharing-using-Command-Prompt).
+
+### Step 3: Connect with Raspberry Pi Connect
+Go to [Raspberry Pi Connect](https://www.raspberrypi.com/software/connect/) to access your Pi from anywhere, using either:
+- **Screen sharing** (full remote desktop), or
+- **Remote shell** (terminal access)
+
+### Step 4: Sign In Again When Needed
+On later visits, if your session has expired, sign in again from the command prompt, then start screen sharing:
+
+```bash
+rpi-connect signin
+```
+
+Then open [connect.raspberrypi.com](https://connect.raspberrypi.com) in your browser and choose **Connect via screen sharing**.
+
 # 🍓 Raspberry Pi 5 (8 GB) Projects
 
 This repository is a collection of projects and experiments built on the Raspberry Pi 5 with 8 GB of RAM. The goal is to explore what this small, low-cost, low-power computer can really do, from running artificial intelligence locally to working with hardware and software tools. Every project is documented step by step, so anyone can follow along and recreate it on their own Raspberry Pi.
