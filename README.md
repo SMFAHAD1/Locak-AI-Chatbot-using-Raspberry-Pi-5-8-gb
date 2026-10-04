@@ -1,3 +1,7 @@
+# 🍓 Raspberry Pi 5 (8 GB) Projects
+
+This repository is a collection of projects and experiments built on the Raspberry Pi 5 with 8 GB of RAM. The goal is to explore what this small, low-cost, low-power computer can really do, from running artificial intelligence locally to working with hardware and software tools. Every project is documented step by step, so anyone can follow along and recreate it on their own Raspberry Pi.
+
 ## 🚀 Getting Started: Recommended Workflow
 
 If this is your first time here, follow the steps below in order.
@@ -23,10 +27,6 @@ rpi-connect signin
 ```
 
 Then open [connect.raspberrypi.com](https://connect.raspberrypi.com) in your browser and choose **Connect via screen sharing**.
-
-# 🍓 Raspberry Pi 5 (8 GB) Projects
-
-This repository is a collection of projects and experiments built on the Raspberry Pi 5 with 8 GB of RAM. The goal is to explore what this small, low-cost, low-power computer can really do, from running artificial intelligence locally to working with hardware and software tools. Every project is documented step by step, so anyone can follow along and recreate it on their own Raspberry Pi.
 
 ## 🚀 About the Hardware
 
